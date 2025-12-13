@@ -6,7 +6,7 @@ npm init -y
 npm i express 
 ```
 ```
-npm i -D @types/node @types/express typescript 
+npm i -D @types/node @types/express typescript
 ```
 ```
 npx tsc --init
